@@ -30,4 +30,5 @@
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
   }
+  npm install --save-dev @types/node
 }
